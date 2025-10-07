@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there, I'm EL MAALLEM Ismail 👋
 
-- 🔭 I’m currently working on something special
-- 🌱 I’m currently learning programmation
-- 🤔 I’m actually learning with the help of docs.github.com
+- 🎓 I'm a student at ENSISA (École Nationale Supérieure d’Ingénieurs Sud Alsace), studying Informatique et Réseaux.
+- 💻 Passionate about software development, networking, and technology innovation.
+- contact :
+    📧 Email: ismail25elm@gmail.com
+    💼 LinkedIn: Ismail El Maallem
 
